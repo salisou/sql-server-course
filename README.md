@@ -7,3 +7,10 @@ Percorso: Fondamenti → Database → Tabelle → Tipi dato → SELECT → DML �
 Metodo: concetto → sintassi → esempio → spiegazione → errori → esercizio → soluzione → best practice.
 
 © 2025 – Tutti i diritti riservati – Docente Moussa Salisou
+
+
+## Verifica di completezza
+
+Per la mappa dettagliata degli argomenti, la copertura rispetto ai principali percorsi SQL introduttivi e la progressione didattica completa, consulta [COMPLETAMENTO-CORSO.md](./COMPLETAMENTO-CORSO.md).
+
+Il corso include ora anche esempi operativi per funzioni, aggregazioni, JOIN, sottoquery, CTE, funzioni finestra, operatori UNION/INTERSECT/EXCEPT, indici, stored procedure, funzioni definite dall'utente, transazioni e backup/restore.
